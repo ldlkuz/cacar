@@ -21,4 +21,4 @@ mv changan /sdcard/
 #调用脚本
 echo "\033[33m即将进入车机环境配置脚本\033[0m"
 sleep 2
-sh /sdcard/changan/wanmei.sh
+sh /sdcard/changan/start.sh
